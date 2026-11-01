@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Pin and Keychain Mock Up Design — flat vector enamel pins">
+  <rect width="1200" height="900" fill="#F5F1E7"/>
+  <circle cx="1050" cy="170" r="160" fill="#C8D8E4" opacity=".55"/>
+  <circle cx="150" cy="740" r="140" fill="#DCE7EE" opacity=".7"/>
+  <path d="M0 780c150-40 260 10 400-20s250-60 390-20 240 30 410-10v170H0Z" fill="#DCE7EE" opacity=".6"/>
+  <g fill="#4F6D7A" opacity=".32">
+    <circle cx="120" cy="110" r="5"/><circle cx="158" cy="110" r="5"/><circle cx="196" cy="110" r="5"/>
+    <circle cx="120" cy="148" r="5"/><circle cx="158" cy="148" r="5"/><circle cx="196" cy="148" r="5"/>
+    <circle cx="120" cy="186" r="5"/><circle cx="158" cy="186" r="5"/><circle cx="196" cy="186" r="5"/>
+  </g>
+  <rect x="42" y="42" width="1116" height="816" fill="none" stroke="#2B2D31" stroke-opacity=".12" stroke-width="2"/>
+
+  <!-- large keychain -->
+  <g transform="translate(180 190)">
+    <ellipse cx="160" cy="520" rx="150" ry="18" fill="#2B2D31" opacity=".08"/>
+    <circle cx="160" cy="52" r="40" fill="none" stroke="#4F6D7A" stroke-width="11"/>
+    <circle cx="160" cy="52" r="15" fill="none" stroke="#4F6D7A" stroke-width="8"/>
+    <path d="M152 92h16l6 34h-28z" fill="#4F6D7A"/>
+    <rect x="56" y="122" width="208" height="330" rx="46" fill="#FAFAF8" stroke="#2B2D31" stroke-width="4" stroke-opacity=".5"/>
+    <rect x="80" y="146" width="160" height="282" rx="30" fill="#4F6D7A"/>
+    <circle cx="160" cy="228" r="58" fill="none" stroke="#C8D8E4" stroke-width="5" stroke-dasharray="10 10"/>
+    <path d="M110 330l46-62 36 42 22-28 36 48H110Z" fill="#FAFAF8" opacity=".9"/>
+    <circle cx="120" cy="262" r="16" fill="#E9C46A"/>
+    <rect x="118" y="378" width="84" height="10" rx="5" fill="#C8D8E4" opacity=".8"/>
+  </g>
+
+  <!-- square enamel pin -->
+  <g transform="translate(660 230)">
+    <ellipse cx="150" cy="310" rx="140" ry="16" fill="#2B2D31" opacity=".08"/>
+    <rect x="0" y="0" width="300" height="300" rx="56" fill="#FAFAF8" stroke="#2B2D31" stroke-width="4" stroke-opacity=".5"/>
+    <rect x="26" y="26" width="248" height="248" rx="38" fill="#C8D8E4"/>
+    <circle cx="150" cy="150" r="78" fill="#E9C46A"/>
+    <path d="M150 84l20 42 46 6-34 32 9 46-41-22-41 22 9-46-34-32 46-6Z" fill="#FAFAF8"/>
+    <circle cx="150" cy="150" r="16" fill="#4F6D7A"/>
+  </g>
+
+  <!-- cloud pin -->
+  <g transform="translate(790 610)">
+    <ellipse cx="170" cy="200" rx="150" ry="16" fill="#2B2D31" opacity=".08"/>
+    <path d="M74 186C34 180 22 140 50 112c14-14 34-16 50-8 8-38 40-64 80-64 46 0 84 32 88 76 32-8 64 14 64 48 0 30-26 52-60 52H74Z" fill="#FAFAF8" stroke="#2B2D31" stroke-width="4" stroke-opacity=".5"/>
+    <path d="M94 112c0-34 24-54 56-54s54 20 54 54c0 24-24 36-54 36s-56-12-56-36Z" fill="#C8D8E4"/>
+    <circle cx="150" cy="108" r="22" fill="#4F6D7A"/>
+    <circle cx="150" cy="108" r="7" fill="#E9C46A"/>
+    <rect x="118" y="160" width="64" height="8" rx="4" fill="#4F6D7A" opacity=".45"/>
+  </g>
+
+  <!-- small round pin -->
+  <g transform="translate(320 560)">
+    <ellipse cx="90" cy="196" rx="80" ry="13" fill="#2B2D31" opacity=".08"/>
+    <circle cx="90" cy="90" r="88" fill="#FAFAF8" stroke="#2B2D31" stroke-width="4" stroke-opacity=".5"/>
+    <circle cx="90" cy="90" r="64" fill="#E9C46A"/>
+    <path d="M58 108c-14-4-18-22-6-32 8-8 22-8 30 0 8-8 22-8 30 0 12 10 8 28-6 32-10 4-24 4-24 4s-14 0-24-4Z" fill="#FAFAF8"/>
+    <path d="M90 70v46" stroke="#4F6D7A" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>

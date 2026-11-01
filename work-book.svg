@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Book Mock Up Persona 3 Theme — flat vector hardcover book">
+  <rect width="1200" height="900" fill="#F1F4F6"/>
+  <path d="M140 900V400c0-140 118-250 264-250s264 110 264 250v500Z" fill="#C8D8E4" opacity=".45"/>
+  <circle cx="1000" cy="200" r="130" fill="#E9C46A" opacity=".8"/>
+  <circle cx="1000" cy="200" r="178" fill="none" stroke="#E9C46A" stroke-opacity=".3" stroke-width="2"/>
+  <path d="M0 790c170-40 280 20 420-10s250-60 390-20 250 20 390-20v160H0Z" fill="#C8D8E4" opacity=".4"/>
+  <g fill="#4F6D7A" opacity=".35">
+    <circle cx="130" cy="140" r="5"/><circle cx="170" cy="140" r="5"/><circle cx="210" cy="140" r="5"/>
+    <circle cx="130" cy="180" r="5"/><circle cx="170" cy="180" r="5"/><circle cx="210" cy="180" r="5"/>
+    <circle cx="130" cy="220" r="5"/><circle cx="170" cy="220" r="5"/><circle cx="210" cy="220" r="5"/>
+  </g>
+
+  <!-- book, angled cover with visible spine -->
+  <g>
+    <ellipse cx="620" cy="748" rx="300" ry="34" fill="#2B2D31" opacity=".12"/>
+    <path d="M400 190h420v560H400Z" fill="#FAFAF8"/>
+    <path d="M400 190h420v560H400Z" fill="none" stroke="#2B2D31" stroke-opacity=".2" stroke-width="3"/>
+    <path d="M400 190h56v560h-56Z" fill="#334C57"/>
+    <path d="M456 190h12v560h-12Z" fill="#E9C46A" opacity=".85"/>
+    <path d="M468 190h352v560H468Z" fill="#3D5762"/>
+    <path d="M468 190h352v560H468Z" fill="none" stroke="#2B2D31" stroke-opacity=".2" stroke-width="3"/>
+
+    <path d="M644 330c-62 0-112 38-112 96s50 96 112 96 112-38 112-96-50-96-112-96Zm0 142c-26 0-46-20-46-46s20-46 46-46 46 20 46 46-20 46-46 46Z" fill="#C8D8E4"/>
+    <circle cx="644" cy="426" r="26" fill="#E9C46A"/>
+    <circle cx="644" cy="426" r="10" fill="#334C57"/>
+
+    <rect x="524" y="234" width="118" height="10" rx="5" fill="#C8D8E4" opacity=".85"/>
+    <rect x="524" y="254" width="74" height="8" rx="4" fill="#C8D8E4" opacity=".45"/>
+    <rect x="524" y="594" width="180" height="10" rx="5" fill="#C8D8E4" opacity=".7"/>
+    <rect x="524" y="616" width="112" height="8" rx="4" fill="#C8D8E4" opacity=".35"/>
+    <circle cx="752" cy="646" r="15" fill="none" stroke="#E9C46A" stroke-width="3"/>
+    <path d="M757 651l15 15" stroke="#E9C46A" stroke-width="4" stroke-linecap="round"/>
+
+    <path d="M548 190h14v150l-7-11-7 11Z" fill="#E9C46A"/>
+    <rect x="400" y="190" width="420" height="16" fill="#C8D8E4" opacity=".3"/>
+    <rect x="400" y="730" width="420" height="20" fill="#FAFAF8" opacity=".55"/>
+    <rect x="816" y="196" width="14" height="548" rx="7" fill="#FAFAF8"/>
+    <rect x="830" y="196" width="12" height="548" fill="#E6EAEC"/>
+  </g>
+
+  <!-- info card -->
+  <g>
+    <rect x="836" y="400" width="220" height="170" rx="18" fill="#FAFAF8"/>
+    <rect x="862" y="430" width="76" height="10" rx="5" fill="#4F6D7A" opacity=".7"/>
+    <rect x="862" y="454" width="130" height="8" rx="4" fill="#4F6D7A" opacity=".28"/>
+    <circle cx="880" cy="508" r="18" fill="#E9C46A"/>
+    <rect x="910" y="500" width="100" height="10" rx="5" fill="#2B2D31" opacity=".18"/>
+    <rect x="862" y="536" width="70" height="8" rx="4" fill="#2B2D31" opacity=".12"/>
+  </g>
+  <g fill="#4F6D7A" opacity=".45">
+    <path d="M1050 660h12v12h-12z" transform="rotate(45 1056 666)"/>
+    <path d="M280 470h10v10h-10z" transform="rotate(45 285 475)"/>
+  </g>
+  <rect x="42" y="42" width="1116" height="816" fill="none" stroke="#2B2D31" stroke-opacity=".12" stroke-width="2"/>
+</svg>
